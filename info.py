@@ -34,4 +34,4 @@ Rᴇϙᴜᴇsᴛ Mᴀᴛᴇʀɪᴀʟ/Aᴅᴅ Mᴀᴛᴇʀɪᴀʟ : @matreqqbot .
 
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Checkout {username} for searching study material'
