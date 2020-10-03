@@ -23,9 +23,15 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+𝐇𝐢, 𝐈'𝐦 𝐒𝐭𝐮𝐝𝐲 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥 𝐒𝐞𝐚𝐫𝐜𝐡 𝐛𝐨𝐭 .
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+𝐻𝑒𝑟𝑒 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑠𝑒𝑎𝑟𝑐ℎ 𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑠 𝑖𝑛 𝑖𝑛𝑙𝑖𝑛𝑒 𝑚𝑜𝑑𝑒. 𝐽𝑢𝑠𝑡 𝑝𝑟𝑒𝑠𝑠 𝑓𝑜𝑙𝑙𝑜𝑤𝑖𝑛𝑔 𝑏𝑢𝑡𝑡𝑜𝑛𝑠 𝑎𝑛𝑑 𝑠𝑡𝑎𝑟𝑡 𝑠𝑒𝑎𝑟𝑐ℎ𝑖𝑛𝑔.
+
+Rᴇϙᴜᴇsᴛ Mᴀᴛᴇʀɪᴀʟ/Aᴅᴅ Mᴀᴛᴇʀɪᴀʟ : @matreqqbot .
+
+𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : 𝖪𝗒𝖺 𝗄𝖺𝗋𝗈𝗀𝖾 𝗇𝖺𝖺𝗆 𝗃𝖺𝗇𝗄𝖾 ?
+
+
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
