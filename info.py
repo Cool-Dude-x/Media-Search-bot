@@ -26,6 +26,7 @@ START_MSG = """
 Hi, I'm Study Material Search bot . 📚
 
 Here you can search 🔍 Materials in inline mode. Just press following buttons and start searching.
+Join This If U Want Unacademy PLUS Free Subscription : @jeeneethc_back
 
 Request Material/Add Material :
 @matreqqbot .
